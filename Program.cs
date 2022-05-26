@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace arrays_aula_10_djalma
-{
+{      // RA:6322046 Nome:Julio Duarte Batista
     internal class Program
     {
         static void Main(string[] args)
