@@ -24,7 +24,7 @@ namespace arrays_aula_10_djalma
                 Console.WriteLine(String.Format("Elemento {0} = valor {1}", i, valores[i]));
             }
 
-            // alteração array
+            // alteração da array 
 
             int posicao;
 
